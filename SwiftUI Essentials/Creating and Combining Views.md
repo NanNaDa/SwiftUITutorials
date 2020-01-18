@@ -11,10 +11,10 @@
 
   To preview and interact with views from the canvas in Xcode, ensure your Mac is running macOS Catalina 10.15.
 
-  ```
-  Step 1
-  > Open Xcode and either click **Create a new Xcode project** in Xcode's startup window, or choose **File > New > Project.**
-  ```
+  
+####  Step 1
+  Open Xcode and either click **Create a new Xcode project** in Xcode's startup window, or choose **File > New > Project.**
+  
 
 
 
