@@ -5,14 +5,14 @@
 
   Download the project files to begin building this project, and follow the steps below.
 
-## section 1
-### Create a New Project and Explore the Canvas
+##   section 1
+###     Create a New Project and Explore the Canvas
   Create a new Xcode project that uses SwiftUI. Explore the canvas, previews, and the SwiftUI template code.
 
   To preview and interact with views from the canvas in Xcode, ensure your Mac is running macOS Catalina 10.15.
 
   
-####  Step 1
+####       Step 1
   Open Xcode and either click **Create a new Xcode project** in Xcode's startup window, or choose **File > New > Project.**
   
 
