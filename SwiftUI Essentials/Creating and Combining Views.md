@@ -13,7 +13,7 @@
 
   ```
   Step 1
-  Open Xcode and either click **Create a new Xcode project** in Xcode's startup window, or choose **File > New > Project.**
+  > Open Xcode and either click **Create a new Xcode project** in Xcode's startup window, or choose **File > New > Project.**
   ```
 
 
