@@ -6,10 +6,10 @@
   Download the project files to begin building this project, and follow the steps below.
 
 ## section 1
-<p>**Create a New Project and Explore the Canvas**</p>
-<p>
+**Create a New Project and Explore the Canvas**
+
   Create a new Xcode project that uses SwiftUI. Explore the canvas, previews, and the SwiftUI template code.
-</p>
+
   To preview and interact with views from the canvas in Xcode, ensure your Mac is running macOS Catalina 10.15.
 
 
@@ -41,6 +41,7 @@
 
 ## Section 2
 ** Customize the Text View**
+
   You can customize a view's display by changing your code, or by using the inspector to discover what's available and to help you write code.
   
   As you build the Landmarks app, you can use any combination of editors: the source editor, the canvas, or the inspectors. Your code stays updated, regardless of which tool you use.
