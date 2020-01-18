@@ -40,7 +40,7 @@
 
 
 ## Section 2
-** Customize the Text View**
+**Customize the Text View**
 
   You can customize a view's display by changing your code, or by using the inspector to discover what's available and to help you write code.
   
@@ -77,6 +77,7 @@
   
 ## Section 3
 **Combine Views Using Stacks**
+
   Beyond the title view you created in the previous section, you'll add text views to contain details about the landmark, such as the name of the park and state it's in.
   
   When creating a SwiftUI view, you describe its content, layout, and behavior in the view's body property; however, the boy property only returns a single view. You can combine and embed multiple views in _stacks_, which group views together horizontally, vertically, or back-to-front.
@@ -124,6 +125,6 @@
  
 
 ## Section 4
-** Create a Custom Image View**
+**Create a Custom Image View**
   
 
